@@ -12,7 +12,7 @@ function App() {
         <a className="logo" href="#home">Juho</a>
 
         <nav>
-          <a href="#about">Minusta</a>
+          <a href="#about">Minusta "\n"</a> + "\n"
           <a href="#projects">Projektit</a>
           <a href="#contact">Yhteystiedot</a>
         </nav>
