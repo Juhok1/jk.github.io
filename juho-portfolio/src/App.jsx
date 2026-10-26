@@ -53,12 +53,12 @@ function App() {
 
         <section id="projects" className="content-section">
           <h2>Projektit</h2>
-          <p>Projektini esitellään täällä myöhemmin. Voit kuitenkin tutustua niihin jo etukäteen <a href = "https://github.com/" arget="_blank" rel="noreferrer"> täällä</a></p>
+          <p>Projektini esitellään täällä myöhemmin. Voit kuitenkin tutustua niihin jo etukäteen <a href = "https://github.com/" target="_blank" rel="noreferrer"> täällä</a></p>
         </section>
 
         <section id="contact" className="content-section">
           <h2>Yhteystiedot</h2>
-          <a href = "www.linkedin.com/in/juho-kauti-8ab88b246" target="_blank" rel="noreferrer">
+          <a href = "www.linkedin.com/in/juho-kauti-8ab88b246/" target="_blank" rel="noreferrer">
             LinkedIn
             </a>
           <p>
