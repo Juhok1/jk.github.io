@@ -58,7 +58,7 @@ function App() {
 
         <section id="contact" className="content-section">
           <h2>Yhteystiedot</h2>
-          <a href = "www.linkedin.com/in/juho-kauti-8ab88b246/" target="_blank" rel="noreferrer">
+          <a href = "https://www.linkedin.com/in/juho-kauti-8ab88b246/" target="_blank" rel="noreferrer">
             LinkedIn
             </a>
           <p>
