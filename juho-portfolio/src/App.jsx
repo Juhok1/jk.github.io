@@ -53,7 +53,14 @@ function App() {
 
         <section id="projects" className="content-section">
           <h2>Projektit</h2>
-          <p>Projektini esitellään täällä myöhemmin. Voit kuitenkin tutustua niihin jo etukäteen <a href = "https://github.com/Juhok1" target="_blank" rel="noreferrer"> täällä</a></p>
+          <p>Viimeisin projektini oli hackathon-haasteena toteutettu Takomo Golfin <a href= "https://fitteri.mankelisolutions.fi/studio.html?engine=live&start=own&ff=v3&view=ar"> Takomo Fitter Studio.</a> Studion tehtävänä on suositella käyttäjälle, minkälainen maila hänen tulisi ostaa.
+            Projekti hyödyntää esimerkiksi
+            <ul>
+            <li> ElevenLabsia chatin puhetoimintoihin</li>
+            <li> Pythonia backedin toimintoihin</li>
+            <li> TypeScriptia frontendiin</li>
+            </ul>
+            Tarkemmin tähän sekä muihin projekteihini voit tutustua <a href = "https://github.com/Juhok1" target="_blank" rel="noreferrer"> täällä</a></p>
         </section>
 
         <section id="contact" className="content-section">
