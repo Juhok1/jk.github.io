@@ -53,7 +53,7 @@ function App() {
 
         <section id="projects" className="content-section">
           <h2>Projektit</h2>
-          <p>Viimeisin projektini oli hackathon-haasteena toteutettu Takomo Golfin <a href= "https://fitteri.mankelisolutions.fi/studio.html?engine=live&start=own&ff=v3&view=ar"> Takomo Fitter Studio.</a> Studion tehtävänä on suositella käyttäjälle, minkälainen maila hänen tulisi ostaa.
+          <p>Viimeisin projektini oli hackathon-haasteena toteutettu Takomo Golfin <a href= "https://fitteri.mankelisolutions.fi/studio.html"> Takomo Fitter Studio.</a> Studion tehtävänä on suositella käyttäjälle, minkälainen maila hänen tulisi ostaa.
             Projekti hyödyntää esimerkiksi
             <ul>
             <li> ElevenLabsia chatin puhetoimintoihin</li>
